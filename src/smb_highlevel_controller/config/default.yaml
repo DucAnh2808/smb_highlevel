@@ -1,0 +1,10 @@
+scan_subscriber_topic_name: /scan
+scan_subscriber_queue_size: 10
+x_vel: 0.3
+p_gain_ang: 100
+
+x_vel_d_gain: 1
+
+service_name: "/startService"
+max_distance_to_pillar: 1
+collision_threshold: 1.5

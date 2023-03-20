@@ -1,0 +1,8 @@
+prefix=/home/anh/ws_2/install
+
+Name: smb_highlevel_controller
+Description: Description of smb_highlevel_controller
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy sensor_msgs
